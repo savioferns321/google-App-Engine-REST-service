@@ -1,2 +1,9 @@
 # Google App Engine generated folder
 appengine-generated/
+war
+src/META-INF
+log4j.properties
+.*
+!*/web.xml
+!*/logging.properties
+!*/appengine-web.xml
